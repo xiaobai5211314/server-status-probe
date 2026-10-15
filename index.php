@@ -769,7 +769,7 @@ input.btn:hover{background:#b85736; border-color:#b85736;}
 }
 -->
 </style>
-<script language="JavaScript" type="text/javascript" src="https://tc1.21212121.xyz/asite/assets/vendor/jquery/jquery-1.7.2.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="https://guzhicdn.21212121.xyz/asite/assets/vendor/jquery/jquery-1.7.2.min.js"></script>
 <script type="text/javascript"> 
 <!--
 $(document).ready(function(){getJSONData();});
@@ -864,8 +864,8 @@ function displayData(dataJSON)
 
 <div id="page">
     <div class="top-bar" style="display:flex; justify-content:space-between; align-items:center; margin-bottom:14px; padding:10px 16px; background:#ffffff; border:1px solid #e8e6dc; border-radius:10px; box-shadow:0 2px 8px rgba(20,20,19,0.03);">
-        <a href="https://a.21212121.xyz" target="_blank" rel="noopener" style="color:#c96442; font-weight:600; text-decoration:none; display:inline-flex; align-items:center; gap:6px; font-size:13px;">
-            <span>← 小白数字空间 · 站群导航 (a.21212121.xyz)</span>
+        <a href="https://nav.21212121.xyz" target="_blank" rel="noopener" style="color:#c96442; font-weight:600; text-decoration:none; display:inline-flex; align-items:center; gap:6px; font-size:13px;">
+            <span>← 小白数字空间 · 站群导航 (nav.21212121.xyz)</span>
         </a>
         <div style="font-size:12px; color:#5e5d59;">
             <span>腾讯云上海数据中心 · 运行正常</span>
@@ -877,7 +877,7 @@ function displayData(dataJSON)
 
     <div id="header">
         <h1><a href="xbtz.php" style="color:#141413; text-decoration:none;"><?php echo $title;?></a> <small><?php echo $version;?> · 腾讯云上海实时节点</small></h1>
-        <div id="download"><a href="https://a.21212121.xyz" target="_blank" rel="noopener">返回站群导航 ↗</a></div>
+        <div id="download"><a href="https://nav.21212121.xyz" target="_blank" rel="noopener">返回站群导航 ↗</a></div>
     </div>
 
 <!--服务器相关参数-->

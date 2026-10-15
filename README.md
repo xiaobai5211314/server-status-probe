@@ -14,7 +14,7 @@
 
 ## 🛠️ 技术栈与加速
 - **后端**：PHP 8.5
-- **前端库**：jQuery 1.7.2（托管于又拍云 CDN 高速存储：`https://tc1.21212121.xyz/asite/assets/vendor/jquery/jquery-1.7.2.min.js`，避免消耗服务器外网带宽）
+- **前端库**：jQuery 1.7.2（托管于又拍云 CDN 高速存储：`https://guzhicdn.21212121.xyz/asite/assets/vendor/jquery/jquery-1.7.2.min.js`，避免消耗服务器外网带宽）
 - **站群互联**：页眉集成全景导航栏，双向直达主站博客与站群导航总中心。
 
 ## 🚀 自动部署与 CI/CD
